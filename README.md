@@ -64,16 +64,16 @@
 
 ## 주요 레포지토리 설명
 
-### Career Portfolio
+### 1️⃣ Career Portfolio
 금융권에서 수행한 주요 프로젝트와 경력을 정리한 포트폴리오입니다.  [Career Portfolio Repository](https://github.com/LeeKyungOk/career-portfolio)
 
-### AI Portfolio
+### 2️⃣ AI Portfolio
 AI 관련 프로젝트와 학습 내용을 정리한 포트폴리오입니다.  [AI Portfolio Repository](https://github.com/LeeKyungOk/AI-portfolio)
 
-### Self-Study
+### 3️⃣ Self-Study
 자가 학습을 통해 진행한 데이터 분석 스터디와 코딩 테스트 준비 내용을 포함합니다.  [Self-Study Repository](https://github.com/LeeKyungOk/self-study)
 
-### GitHub Blog
+### 4️⃣ GitHub Blog
 더 많은 자세한 이야기는 GitHub Pages 블로그에서 확인하세요!   [GitHub Pages](https://leekyungok.github.io)
 
 ---
